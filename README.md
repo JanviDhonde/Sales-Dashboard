@@ -18,7 +18,7 @@ This dashboard empowers organizations to make **data-driven decisions** for enha
 - **Category-wise Sales**: 🛋️💻 Analyze sales across categories such as **Furniture**, **Office Supplies**, and **Technology** with detailed bar charts.  
 - **Profit Gained Over Time**: 📉 A line chart to track profit trends from **2014 to 2017** for better forecasting.  
 - **Geographical Insights**: 🌎 A heatmap showcasing state-wise sales performance for strategic targeting.  
-- **Customer Analysis**: 🎯 Highlight top customers contributing to profits through an engaging pie chart.  
+- **Customer Analysis**: 🎯 Highlight top 5 customers contributing to profits through an engaging pie chart.  
 - **Monthly Sales Trends**: 📆 Visualize seasonal patterns with a clear area chart.  
 - **Interactive Filters**: 🗂️ Utilize slicers to filter data dynamically by **Year** and **Category**.
 
@@ -31,19 +31,17 @@ This dashboard empowers organizations to make **data-driven decisions** for enha
 
 ### 🛠️ **Tools and Technologies Used**
 
-- **Power BI**: For creating interactive and dynamic visualizations.  
-- **Excel**: 🖥️ For initial data preparation and formatting.  
-- **Python**: 🐍 For advanced data preprocessing.  
+- **Excel**: 🖥️ For initial data preparation such as removing duplicates, blank values and formatting & creating interactive and dynamic visualizations.
 
 ### 📂 **How to Use the Dashboard**
 
 1. 📥 **Download the Repository**: Clone this repo or download all files.  
-2. 🖥️ **Open in Power BI**: Load the dataset into Power BI Desktop.  
+2. 🖥️ **Open in Microsoft Excel**: Load the dataset into Microsoft Excel Desktop.  
 3. 🔍 **Explore Insights**: Interact with slicers and charts to analyze key metrics dynamically.  
 
 ### 🎯 **Project Objective**
 
-The goal of this project is to showcase how Power BI can be utilized as a powerful tool for **data visualization and business analytics**. This dashboard serves as a solution to gain meaningful insights into sales performance and optimize strategies.
+The goal of this project is to showcase how Microsoft Excel can be utilized as a powerful tool for **data visualization and business analytics**. This dashboard serves as a solution to gain meaningful insights into sales performance and optimize strategies.
 
 ### 🖼️ **Dashboard Preview**
 

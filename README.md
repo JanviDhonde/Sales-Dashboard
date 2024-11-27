@@ -1,6 +1,6 @@
 ## 📊 **Sales Dashboard - Data Analysis Project**
 
-A visually appealing and interactive **Sales Dashboard** created using **Power BI** to analyze and summarize business performance. This project demonstrates the potential of Power BI to transform raw data into actionable insights. 📈✨
+A visually appealing and interactive **Sales Dashboard** created using **Microsoft Excel** to analyze and summarize business performance. This project demonstrates the potential of Microsoft Excel to transform raw data into actionable insights. 📈✨
 
 ### 📜 **Project Overview**
 
